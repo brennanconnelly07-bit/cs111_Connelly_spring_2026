@@ -1,0 +1,17 @@
+/*Brennan Connelly, March 9th, and I have changed the "p" paragraph color to be purple, the h1 heading color to be red, and the background color to be periwinkle using Hex Code*/
+p {
+  font-family: "Comic Sans MS", Arial, sans-serif;
+  color: purple;
+  font-size: 11pt;
+  outline-style: dotted; /*this adds a dotted outline*/
+}
+
+h1 {
+  font-family: "Times New Roman";
+  color: Red;
+}
+
+body {
+  background-color: #CCCCFF;
+}
+
